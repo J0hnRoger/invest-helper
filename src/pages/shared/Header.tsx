@@ -12,7 +12,7 @@ class MyHeader extends React.Component {
                 size="small"
             >
                 <Title>
-                    Make It
+                    Invest'
                 </Title>
             </Header>);
     }
